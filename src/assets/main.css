@@ -1,1 +1,17 @@
 @import './base.css';
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+section {
+    height: 40%;
+    min-width: 500px;
+    aspect-ratio: 3 / 2;
+    background-color: yellow;
+}

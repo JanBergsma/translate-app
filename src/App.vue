@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <h1>Hello, world!</h1>
+  <div class="container">
+    <section class="input"></section>
+    <!-- TODO: place the sections -->
+    <section class="output"></section>
+  </div>
 </template>
-
-<style scoped></style>

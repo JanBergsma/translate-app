@@ -2,6 +2,17 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## Web Speech API
+
+<https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance>
+<https://github.com/mdn/web-speech-api/blob/main/web-speech-api/speak-easy-synthesis/script.js>
+
+## Debounce and Throttling
+
+<https://medium.com/@bs903944/debounce-and-throttling-what-they-are-and-when-to-use-them-eadd272fe0be>
+
+<https://youtu.be/JuqdeRopWZ4>
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
